@@ -52,5 +52,17 @@
     "Publisher": "Tejinder Singh",
     "Title": "Update: Process for Orders from Seller \"Nukuku\"",
     "Update": "Hi team,\n\nFor all orders from the seller \"Nukuku\", we are required to notify the seller if the customer has not accepted the delivery within 3 days of the goods being received at our warehouse.\n\nProcess:\n\nCount 3 days from the date the goods are received at our warehouse.\n\nIf the customer has not accepted the delivery by the end of the third day, send an email to both the seller and the customer on the fourth day, informing them that the delivery could not be completed due to customer unavailability.\n\nContinue scheduling the order for the next available delivery date until the delivery is completed.\n\nExample:\n\n1 April: Goods received at our warehouse.\n\n1–3 April: Delivery attempts/acceptance period.\n\nIf the customer has still not accepted the delivery by the end of 3 April, send the notification email to the seller and customer on 4 April, and reschedule the order for the next available delivery date."
+  },
+  {
+    "Date": "2026-07-23 00:00:00",
+    "Publisher": "Abhinav Singh",
+    "Title": "Update: Notification for Cancellation of Orders Above 150 KG",
+    "Update": "Hi Team,\n\nPlease note the following process update with immediate effect.\n\nIf any order weighing more than 150 kg is cancelled, kindly ensure that both the Planning Team and the Floor Supervisor are informed promptly. Timely communication will help us avoid unnecessary resource allocation and ensure smooth operational planning.\n\nYour cooperation in following this process is appreciated. If you have any questions, please feel free to reach out."
+  },
+  {
+    "Date": "2026-10-01 00:00:00",
+    "Publisher": "Tejinder Singh",
+    "Title": "NKUKU Orders",
+    "Update": "Hi Team,\n\nPlease follow the below process for all Nkuku orders:\n\nOnce the goods are received in the warehouse, we need to count 3 days from the date the goods are received.\n\nThe order can be booked within these 3 days only.\n\nFor example, if the goods are received on 01/10/2026, the order can be booked up to 03/10/2026 only  .\n\nIf there is no answer from the customer, the order should be place on hold and the seller should be emailed for an update as no answer from customer side.\n\nThe order should then remain on hold due to no customer response. We should only book it once we receive an update/confirmation from the seller.\n\nIf you face any issue or are unsure about the process, please raise it with me before booking the order.\n\nPlease ensure this process is followed for all Nkuku orders."
   }
 ]
