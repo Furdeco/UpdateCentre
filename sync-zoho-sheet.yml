@@ -1,0 +1,101 @@
+name: Sync Zoho Sheet to Update Centre
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sync-zoho-sheet
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install XLSX rich-text reader
+        run: pip install "openpyxl>=3.1.5,<4"
+
+      - name: Download published Zoho workbook
+        shell: bash
+        run: |
+          set -euo pipefail
+          URL='https://sheet.zohopublic.in/sheet/published/dgklm0af687d826af43d683efc73741ee946b?download=xlsx'
+          curl --fail --location --silent --show-error \
+            --max-redirs 10 --retry 3 --retry-all-errors --retry-delay 2 \
+            --connect-timeout 20 --max-time 90 \
+            --user-agent 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125 Safari/537.36' \
+            "$URL" --output /tmp/zoho-update-centre.xlsx
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('/tmp/zoho-update-centre.xlsx')
+          data=p.read_bytes()
+          if len(data)<8 or not data.startswith(b'PK'):
+              print('Zoho response was not an XLSX workbook. Check the published Zoho link and download permission.')
+              print(data[:500].decode('utf-8','replace'))
+              raise SystemExit(1)
+          print(f'Downloaded XLSX successfully ({len(data)} bytes).')
+          PY
+
+      - name: Export updates.json with rich formatting
+        run: python sync_zoho.py
+
+      - name: Commit and push refreshed data
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add updates.json updates.csv
+          if git diff --cached --quiet; then
+            echo 'No sheet changes to publish.'
+          else
+            git commit -m 'Sync rich-text Zoho Sheet data'
+            for attempt in 1 2 3; do
+              git fetch origin main
+              if git rebase origin/main; then
+                if git push origin HEAD:main; then break; fi
+              fi
+              git rebase --abort 2>/dev/null || true
+              if [ "$attempt" -eq 3 ]; then
+                echo 'Could not push refreshed Zoho data after 3 attempts.' >&2
+                exit 1
+              fi
+              sleep $((attempt * 2))
+            done
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Prepare static site artifact
+        run: |
+          mkdir -p /tmp/update-centre-pages
+          rsync -a --exclude='.git/' --exclude='.github/' --exclude='README*' ./ /tmp/update-centre-pages/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: /tmp/update-centre-pages
+
+      - name: Deploy Update Centre to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
