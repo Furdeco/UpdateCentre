@@ -64,5 +64,17 @@
     "Publisher": "Tejinder Singh",
     "Title": "NKUKU Orders",
     "Update": "Hi Team,\n\nPlease follow the below process for all Nkuku orders:\n\nOnce the goods are received in the warehouse, we need to count 3 days from the date the goods are received.\n\nThe order can be booked within these 3 days only.\n\nFor example, if the goods are received on 01/10/2026, the order can be booked up to 03/10/2026 only  .\n\nIf there is no answer from the customer, the order should be place on hold and the seller should be emailed for an update as no answer from customer side.\n\nThe order should then remain on hold due to no customer response. We should only book it once we receive an update/confirmation from the seller.\n\nIf you face any issue or are unsure about the process, please raise it with me before booking the order.\n\nPlease ensure this process is followed for all Nkuku orders."
+  },
+  {
+    "Date": "2026-07-01 00:00:00",
+    "Publisher": "Operations",
+    "Title": "Auto Hold Sellers (If delivery or collection is failed)",
+    "Update": "1. Bentley Designs\n2. PRC Hifi & Video Ltd\n3. Clear Cycle Ltd\n4. C Supplies\n5. Comfort Gried Tehcnologies Private Limited\n6. Moot Trading LTD (Olivia's)\n7. Moot Trading LTD (TMG Bolt)\n8. Moot Trading LTD - (House Beautiful Marketplace)\n9. Blythe\n10. *HLN Six Ltd\n11. *Serene Sleep Group LTD t/a British Beds Direct\n12. *Serene Sleep Group Ltd T/A Off To Beds\n13. *Serene Sleep Group LTD t/a SERENE LOGISTICS SPECIAL\n14. *DIVAN BASE DIRECT\n15. *BedzNextDay\n16. DONAGHY BROS\n17. DONAGHY BROS - STOCK\n18. Utsumi UK Ltd\n19. Gallus\n20. Designer Kasbah Ltd T/A Natural Bed Company\n21. Advanced Total Supplies\n22. Barker And Stonehouse\n23. Oak Bed Store\n24. Nkuku\n25. Reyooz\n26. Property Wise Group Ltd T/A Home Wise\n27. Majestic\n28. Shropshire Design\n29. Giatalia\n30. Morris\n31. John Pye\n32. John Pye Chesterfield\n33. John Pye Derby\n34. John Pye Edinburgh\n35. John Pye Ireland\n36. John Pye Marchington\n37. John Pye Nottingham\n38. John Pye Port Talbot\n39. John Pye Birmingham\n40. GFW\n41. Viking\n42. NCF\n43. Dliscious\n44. CFS\n45. Cult Furniture\n46. Carysil\n47. ALM\n48. Sofa Dept (Sofa Express)\n49. E A Ellison Ltd\n50. Germania\n51. Cubbly\n52. Naturewall\n53. Primaflow Abacus\n54. Sofa Superstore\n55. Vibrant Doors\n56. Style Our Home\n57. Tarlu\n58. Style Our Home - Stock\n59. Julian Bowen Ltd\n60. The Nursery Store\n61. My Next Mattress\n62. Lancaster Holdings Ltd t/a Bluestem Group"
+  },
+  {
+    "Date": "2026-07-01 00:00:00",
+    "Publisher": "Operations",
+    "Title": "Seller we can confirm without calling the customers.",
+    "Update": "1. Limitless\n2. Purmo Group LTD\n3. The Wright buy\n4. Cooks Appliances\n5. Richer sounds\n6. Dynamic (Accept business jobs during specified business hours)\n7. ETS\n8. Abacus\n9. Home Feeling\n10. Viking office\n11. Ebay and Amazon\n12. Celebrity Motion\n13. E.A Ellison\n14. Bimble solar"
   }
 ]
