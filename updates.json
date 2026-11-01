@@ -3,19 +3,19 @@
     "Date": "2026-10-22 00:00:00",
     "Publisher": "Abhinav Singh",
     "Title": "NCF Orders - Enquiries, Issues & Awaiting Goods: Handle with Extra Care",
-    "Update": "NCF Orders (Effective Immediately)\n\nThe client has told us there are some issues on the NCF account, so we need to handle all NCF enquiries with extra care. Please follow the points below.\n Customer calls on NCF orders if the goods show as \"Awaiting\" and the customer asks about delivery, tell them:\n\n\"Thank you for your patience. Your order is on its way to us, and we'll contact you as soon as it arrives so we can arrange your delivery. We don't have a date yet, but we'll update you as soon as we do.\"\n\n*Do not give or estimate a delivery date.\n*Do not say the goods are already at our warehouse or depot.\n*Do not blame NCF or say NCF has given wrong information.\n*If the customer says NCF confirmed the goods were sent or collected, still use the wording above and note this on the ticket.\n\n2. Search requests (DDI / warehouse)\n*Do not raise a search until at least 72 hours have passed from the date the order was raised.\n*Do not raise another search if the warehouse has already confirmed the goods are not received. Add a note to the existing ticket instead.\n\n3. Notes on tickets\n*Add a note on the DDI ticket every time a customer calls about an NCF order, including whether they said NCF had confirmed dispatch or collection. We need this to show the client the volume of repeat calls.\n\n4. Escalations\n*If a customer is very distressed or keeps calling, escalate to me or the team lead rather than repeating the same answer. Danielle is the account manager for NCF, so I will contact her directly if we need help."
+    "Update": "NCF Orders (Effective Immediately)\n\nThe client has told us there are some issues on the NCF account, so we need to handle all NCF enquiries with extra care. Please follow the points below.\n Customer calls on NCF orders if the goods show as \"Awaiting\" and the customer asks about delivery, tell them:\n\n\"Thank you for your patience. Your order is on its way to us, and we'll contact you as soon as it arrives so we can arrange your delivery. \n\nWe don't have a date yet, but we'll update you as soon as we do.\"\n\n*Do not give or estimate a delivery date.\n*Do not say the goods are already at our warehouse or depot.\n*Do not blame NCF or say NCF has given wrong information.\n*If the customer says NCF confirmed the goods were sent or collected, still use the wording above and note this on the ticket.\n\n2. Search requests (DDI / warehouse)\n*Do not raise a search until at least 72 hours have passed from the date the order was raised.\n*Do not raise another search if the warehouse has already confirmed the goods are not received. Add a note to the existing ticket instead.\n\n3. Notes on tickets\n*Add a note on the DDI ticket every time a customer calls about an NCF order, including whether they said NCF had confirmed dispatch or collection. \n\nWe need this to show the client the volume of repeat calls.\n\n4. Escalations\n*If a customer is very distressed or keeps calling, escalate to me or the team lead rather than repeating the same answer. \n\nDanielle is the account manager for NCF, so I will contact her directly if we need help."
   },
   {
     "Date": "2026-10-27 00:00:00",
     "Publisher": "Arshita Puri",
-    "Title": "Delivery Date Declined - Post Cut Off/ Pre Cut Off",
+    "Title": "Delivery Date Declined - Post Cut Off / Pre Cut Off",
     "Update": "Hi Team,\n\nPlease make sure to follow the force debrief points before rescheduling a confirmed delivery.\n\nDelivery Date Declined - Post Cut Off/ Pre Cut Off: \n\nPre Cut Off (Non-chargeable)\n1. Customer declines the next day’s delivery before 3:00 PM UK time.\n2. Customer declines after 3:00 PM, but within 3 hours of receiving the delivery time slot (Pre call notification).\n\nPost Cut Off (Chargeable)\n1. Customer declines the next day’s delivery after 3:00 PM UK time and more than 3 hours after receiving the delivery time slot (Pre- call notification)."
   },
   {
     "Date": "2026-09-01 00:00:00",
     "Publisher": "Rohit Vashisht",
     "Title": "We have a new client, Tarlu / Origin Sleep",
-    "Update": "We have a new client, Tarlu / Origin Sleep, and we are starting their NEXT DAY orders from today onwards. You will see these orders coming through on the route.\n \nPlease note that the process for this seller is slightly different:\n \nPlanning Team will add the orders for Next day.\nAll NEXT DAY orders must be booked by phone call.\nPlease do not auto-accept these orders.\nIf there is no response by 4:00 PM, please remove the orders from the route.\nPlease ensure that the bookings are properly informed and communicated accordingly.\n \nKindly make sure this process is followed for all Tarlu / Origin Sleep orders going forward."
+    "Update": "We have a new client, Tarlu / Origin Sleep, and we are starting their Next Day orders from today onwards. \n\nYou will see these orders coming through on the route.\n \nPlease note that the process for this seller is slightly different:\n \nPlanning Team will add the orders for Next day.\nAll Next Day orders must be booked by phone call.\nPlease do not auto-accept these orders.\nIf there is no response by 4:00 PM, please remove the orders from the route.\nPlease ensure that the bookings are properly informed and communicated accordingly.\n \nKindly make sure this process is followed for all Tarlu / Origin Sleep orders going forward."
   },
   {
     "Date": "2026-10-27 00:00:00",
@@ -27,7 +27,7 @@
     "Date": "2026-10-28 00:00:00",
     "Publisher": "Rajneesh Kaur",
     "Title": "Follow these instructions for all Dynamic Fresh Orders",
-    "Update": "Guys, please follow these instructions for all Dynamic Fresh Orders\n Residential Address: Accept the order directly without calling the customer.\n Business Address: Check the business timings on Google before accepting the order.\n Business Open: If the order falls within the business's operating hours, accept it directly without calling.\n Business Closed or Timings Unavailable: If the business timings cannot be verified on Google, but the order falls within the expected operating hours, accept the order directly."
+    "Update": "Guys, please follow these instructions for all Dynamic Fresh Orders\n\n Residential Address: Accept the order directly without calling the customer.\n\n Business Address: Check the business timings on Google before accepting the order.\n\n Business Open: If the order falls within the business's operating hours, accept it directly without calling.\n\n Business Closed or Timings Unavailable: If the business timings cannot be verified on Google, \n\n but the order falls within the expected operating hours, accept the order directly."
   },
   {
     "Date": "2026-10-19 00:00:00",
@@ -39,25 +39,19 @@
     "Date": "2026-10-28 00:00:00",
     "Publisher": "Abhinav Singh",
     "Title": "Process Update: Handling Minor Address Change Requests",
-    "Update": "Hi Team,\n\nPlease note the following process for any case where a customer requests a minor change to the delivery address (for example, a door number or postcode correction where the street address remains the same).\n\nWhat to do:\n\n1. Do not place the order ON HOLD and do not email the client regarding the change.\n2. Escalate the case to the Client Services team so it can be investigated, verified and resolved internally.\n3. While the customer is on the call, let them know you will call them back once the case has been investigated with the relevant team, as we are not allowed to amend the address directly.\n4. Once the Client Services team has resolved the case, call the customer back and proceed with the booking confirmation.\n\nPlease ensure the escalation is clear and accurate, stating that the delivery address is unchanged and only a minor correction is needed, so the case can be resolved quickly without delays.\n\nThe aim is to resolve these cases at the earliest opportunity and avoid unnecessary delivery delays. Please follow this process going forward, and reach out to me if you have any questions."
+    "Update": "Hi Team,\n\nPlease note the following process for any case where a customer requests a minor change to the delivery address \n\n(for example, a door number or postcode correction where the street address remains the same).\n\nWhat to do:\n\n1. Do not place the order ON HOLD and do not email the client regarding the change.\n2. Escalate the case to the Client Services team so it can be investigated, verified and resolved internally.\n3. While the customer is on the call, let them know you will call them back once the case has been investigated with the relevant team, as we are not allowed to amend the address directly.\n4. Once the Client Services team has resolved the case, call the customer back and proceed with the booking confirmation.\n\nPlease ensure the escalation is clear and accurate, stating that the delivery address is unchanged and only a minor correction is needed, so the case can be resolved quickly without delays.\n\nThe aim is to resolve these cases at the earliest opportunity and avoid unnecessary delivery delays. Please follow this process going forward, and reach out to me if you have any questions."
   },
   {
     "Date": "2026-10-30 00:00:00",
     "Publisher": "Manish Kumar",
     "Title": "For range we can hold goods as per customer availablity",
-    "Update": "For Range orders, we can hold the goods based on the customer's availability and preferred delivery date. The customer can advise us of a suitable date, and we can arrange the delivery accordingly, subject to the agreed holding period and confirmation from the relevant team."
+    "Update": "For Range orders, we can hold the goods based on the customer's availability and preferred delivery date. \n\nThe customer can advise us of a suitable date, and we can arrange the delivery accordingly, subject to the agreed holding period and confirmation from the relevant team."
   },
   {
     "Date": "2026-07-14 00:00:00",
     "Publisher": "Tejinder Singh",
     "Title": "Update: Process for Orders from Seller \"NKUKU\"",
-    "Update": "Hi team,\n\nFor all orders from the seller \"NKUKU\", we are required to notify the seller if the customer has not accepted the delivery within 3 days of the goods being received at our warehouse.\n\nProcess:\n\nCount 3 days from the date the goods are received at our warehouse.\n\nIf the customer has not accepted the delivery by the end of the third day, send an email to both the seller and the customer on the fourth day, informing them that the delivery could not be completed due to customer unavailability.\n\nContinue scheduling the order for the next available delivery date until the delivery is completed.\n\nExample:\n\n1 April: Goods received at our warehouse.\n\n1–3 April: Delivery attempts/acceptance period.\n\nIf the customer has still not accepted the delivery by the end of 3 April, send the notification email to the seller and customer on 4 April, and reschedule the order for the next available delivery date."
-  },
-  {
-    "Date": "2026-07-23 00:00:00",
-    "Publisher": "Abhinav Singh",
-    "Title": "Update: Notification for Cancellation of Orders Above 150 KG",
-    "Update": "Hi Team,\n\nPlease note the following process update with immediate effect.\n\nIf any order weighing more than 150 kg is cancelled, kindly ensure that both the Planning Team and the Floor Supervisor are informed promptly. Timely communication will help us avoid unnecessary resource allocation and ensure smooth operational planning.\n\nYour cooperation in following this process is appreciated. If you have any questions, please feel free to reach out."
+    "Update": "Hi team,\n\nFor all orders from the seller \"NKUKU\", we are required to notify the seller if the customer has not accepted \n\nthe delivery within 3 days of the goods being received at our warehouse.\n\nProcess:\n\nCount 3 days from the date the goods are received at our warehouse.\n\nIf the customer has not accepted the delivery by the end of the third day, send an email to both the seller and the customer on the fourth day, \n\ninforming them that the delivery could not be completed due to customer unavailability.\n\nContinue scheduling the order for the next available delivery date until the delivery is completed.\n\nExample:\n\n1 April: Goods received at our warehouse.\n\n1–3 April: Delivery attempts/acceptance period.\n\nIf the customer has still not accepted the delivery by the end of 3 April, send the notification email to the seller and customer on 4 April, \n\nand reschedule the order for the next available delivery date."
   },
   {
     "Date": "2026-10-01 00:00:00",
@@ -67,13 +61,13 @@
   },
   {
     "Date": "2026-07-01 00:00:00",
-    "Publisher": "Operations",
+    "Publisher": "Tejinder Singh",
     "Title": "Auto Hold Sellers (If delivery or collection is failed)",
     "Update": "1. Bentley Designs\n2. PRC Hifi & Video Ltd\n3. Clear Cycle Ltd\n4. C Supplies\n5. Comfort Gried Tehcnologies Private Limited\n6. Moot Trading LTD (Olivia's)\n7. Moot Trading LTD (TMG Bolt)\n8. Moot Trading LTD - (House Beautiful Marketplace)\n9. Blythe\n10. *HLN Six Ltd\n11. *Serene Sleep Group LTD t/a British Beds Direct\n12. *Serene Sleep Group Ltd T/A Off To Beds\n13. *Serene Sleep Group LTD t/a SERENE LOGISTICS SPECIAL\n14. *DIVAN BASE DIRECT\n15. *BedzNextDay\n16. DONAGHY BROS\n17. DONAGHY BROS - STOCK\n18. Utsumi UK Ltd\n19. Gallus\n20. Designer Kasbah Ltd T/A Natural Bed Company\n21. Advanced Total Supplies\n22. Barker And Stonehouse\n23. Oak Bed Store\n24. Nkuku\n25. Reyooz\n26. Property Wise Group Ltd T/A Home Wise\n27. Majestic\n28. Shropshire Design\n29. Giatalia\n30. Morris\n31. John Pye\n32. John Pye Chesterfield\n33. John Pye Derby\n34. John Pye Edinburgh\n35. John Pye Ireland\n36. John Pye Marchington\n37. John Pye Nottingham\n38. John Pye Port Talbot\n39. John Pye Birmingham\n40. GFW\n41. Viking\n42. NCF\n43. Dliscious\n44. CFS\n45. Cult Furniture\n46. Carysil\n47. ALM\n48. Sofa Dept (Sofa Express)\n49. E A Ellison Ltd\n50. Germania\n51. Cubbly\n52. Naturewall\n53. Primaflow Abacus\n54. Sofa Superstore\n55. Vibrant Doors\n56. Style Our Home\n57. Tarlu\n58. Style Our Home - Stock\n59. Julian Bowen Ltd\n60. The Nursery Store\n61. My Next Mattress\n62. Lancaster Holdings Ltd t/a Bluestem Group"
   },
   {
     "Date": "2026-07-01 00:00:00",
-    "Publisher": "Operations",
+    "Publisher": "Tejinder Singh",
     "Title": "Seller we can confirm without calling the customers.",
     "Update": "1. Limitless\n2. Purmo Group LTD\n3. The Wright buy\n4. Cooks Appliances\n5. Richer sounds\n6. Dynamic (Accept business jobs during specified business hours)\n7. ETS\n8. Abacus\n9. Home Feeling\n10. Viking office\n11. Ebay and Amazon\n12. Celebrity Motion\n13. E.A Ellison\n14. Bimble solar"
   }
