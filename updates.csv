@@ -215,32 +215,37 @@ The aim is to resolve these cases at the earliest opportunity and avoid unnecess
 2026-11-02 00:00:00,Arshita Puri,Policy Update: Seller Pre/Post-Cut Rules & Sunday Exceptions,"Please note that the Pre-Cut and Post-Cut rules apply equally to every seller. These guidelines remain consistent across the board, and no exemptions are made for direct-accept sellers.
 
 When a timeslot goes out on Saturday for a Monday delivery and the customer contacts us on Sunday to change the date, only charge/apply the Post-Cut rule. No Pre-Cut rule applies here, but this exception is strictly limited to that Sunday contact."
-2026-11-03 00:00:00,Rohit Vashisht,Process for Handling Multiple Orders for the Same Customer,"**Process for Handling Multiple Orders for the Same Customer**
+2026-11-03 00:00:00,Rohit Vashisht,Process for Handling Multiple Orders for the Same Customer,"While checking a postcode, if you find two or more orders under the same customer profile, where one order is scheduled 
+and another is still pending/unscheduled, please follow the below process:
 
-While checking a postcode, if you find two or more orders under the same customer profile, where one order is scheduled and another is still pending/unscheduled, please follow the below process:
+1. Check Goods Received Status: First, check the goods received status and confirm whether the items for the unscheduled order have been received and scanned into the system.
 
-1. **Check Goods Received Status:** First, check the goods received status and confirm whether the items for the unscheduled order have been received and scanned into the system.
+2. Inform the Customer: If the goods have been received, inform the customer about the additional order and confirm their preference for scheduling.
 
-2. **Inform the Customer:** If the goods have been received, inform the customer about the additional order and confirm their preference for scheduling.
+3. Coordinate with the Planning Team: Consult with the Planning Team and arrange to schedule the pending order on the same day 
+as the customer's previously scheduled order, subject to the customer's preference and planning confirmation.
 
-3. **Coordinate with the Planning Team:** Consult with the Planning Team and arrange to schedule the pending order on the same day as the customer's previously scheduled order, subject to the customer's preference and planning confirmation.
-
-4. **Adjust Drop Times:** Once all orders have been scheduled for the same day:
-   - Check the total weight of all orders scheduled for that customer.
+4. Adjust Drop Times: Once all orders have been scheduled for the same day:
+   -Check the total weight of all orders scheduled for that customer.
    - Keep the combined drop time in only one order, based on the total weight of all scheduled orders.
-   - Change the drop time to **0** in all the remaining orders.
+   - Change the drop time to 0 in all the remaining orders.
 
-5. **Update Contact Details and Delivery Instructions:**
+5. Update Contact Details and Delivery Instructions:
    - Keep the customer's contact number and email address in only one order.
    - Remove the contact number and email address from the remaining orders.
-   - Update the Delivery Instructions column to mention the total number of orders scheduled for that customer on the same day (e.g., **2 Orders Scheduled**).
+   - Update the Delivery Instructions column to mention the total number of orders scheduled 
+     for that customer on the same day (e.g., 2 Orders Scheduled).
 
-**Example:**
+Example:
 
-If a customer has two delivery orders, one already scheduled and another pending, first verify the goods received and scanning status of the pending order. Once confirmed, inform the customer and coordinate with the Planning Team to schedule both orders on the same day as per the customer's preference.
+If a customer has two delivery orders, one already scheduled and another pending, first verify the goods received and scanning status of the pending order. 
+Once confirmed, inform the customer and coordinate with the Planning Team to schedule both orders on the same day as per the customer's preference.
 
-**After scheduling:**
+After scheduling:
 - Check the combined weight of both orders and update the appropriate drop time in the first order.
-- Change the drop time to **0** in the second order.
+- Change the drop time to 0 in the second order.
 - Retain the customer's contact number and email address in only one order.
-- Remove these details from the second order and mention **2 Orders Scheduled** in its Delivery Instructions column."
+- Remove these details from the second order and mention 2 Orders Scheduled in its Delivery Instructions column.  
+
+Please ensure this process is followed whenever multiple orders are identified for the same customer to avoid duplicate contact details and incorrect drop-time allocation.
+If you have any questions or require further clarification, please feel free to reach out. "
