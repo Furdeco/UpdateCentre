@@ -111,7 +111,7 @@
     "Date": "2026-11-10 00:00:00",
     "Publisher": "Tejinder Singh",
     "Title": "Warehouse Selection Guidelines – Warehouse Search Requests",
-    "Update": "<span style=\"color:#000000;font-size:10pt;font-family:&quot;Roboto&quot;\">Warehouse Search Update:<br>- NCF Living orders → Walsall Warehouse<br>- All other sellers' orders → Bloxwich Warehouse</span>"
+    "Update": "<span style=\"color:#000000;font-size:10pt;font-family:&quot;Roboto&quot;\">Warehouse Search Update:<br></span><span style=\"font-weight:700;color:#000000;font-size:10pt;font-family:&quot;Roboto&quot;\">- NCF Living orders → Walsall Warehouse</span><span style=\"color:#000000;font-size:10pt;font-family:&quot;Roboto&quot;\"><br></span><span style=\"font-weight:700;color:#000000;font-size:10pt;font-family:&quot;Roboto&quot;\">- All other sellers' orders → Bloxwich Warehouse</span>"
   },
   {
     "Date": "2026-11-11 00:00:00",
@@ -123,6 +123,6 @@
     "Date": "2026-11-11 00:00:00",
     "Publisher": "Tejinder Singh",
     "Title": "RTS Orders – Hold & Seller Notification Procedure",
-    "Update": "<span style=\"color:#000000;font-size:10pt;font-family:&quot;Roboto&quot;\">If an order shows the status Send To (Seller Name) – (Warehouse Name), it means the goods have been returned to the seller (RTS). There is no need to contact the customer. Simply place the order on hold and inform Vishavjeet.</span>"
+    "Update": "<span style=\"color:#000000;font-size:10pt;font-family:&quot;Roboto&quot;\">If an order shows the status </span><span style=\"font-weight:700;color:#000000;font-size:10pt;font-family:&quot;Roboto&quot;\">Send To (Seller Name) – (Warehouse Name)</span><span style=\"color:#000000;font-size:10pt;font-family:&quot;Roboto&quot;\">, it means the goods have been returned to the seller (RTS). There is no need to contact the customer. Simply place the order on hold and inform Vishavjeet.</span>"
   }
 ]
